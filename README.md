@@ -43,7 +43,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=JarodJeffery\&show_icons=true\&exclude_repo=github-readme-stats&show=reviews,prs_merged,prs_merged_percentage&theme=radical)</br>
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=JarodJeffery&exclude_repo=github-readme-stats&show_icons=true&theme=radical)] </br>
 
-#🏆GitHub Trophies
+# 🏆GitHub Trophies
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=JarodJeffery&column=3)](https://github.com/JarodJeffery/github-profile-trophy)
 
