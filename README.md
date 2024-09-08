@@ -38,7 +38,15 @@
 </br>
 
 # :chart_with_upwards_trend:GitHub Stats
-[![Jarod Jeffery stats](https://github-readme-stats.vercel.app/api/wakatime?username=JarodJeffery&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Jarod Jeffery stats](https://github-readme-stats.vercel.app/api?username=JarodJeffery\&exclude_repo=github-readme-stats&include_all_commits=true&theme=radical)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JarodJeffery&exclude_repo=github-readme-stats&layout=compact&theme=radical)</br>
+![](https://github-readme-stats.vercel.app/api?username=JarodJeffery\&show_icons=true\&exclude_repo=github-readme-stats&show=reviews,prs_merged,prs_merged_percentage&theme=radical)</br>
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=JarodJeffery&exclude_repo=github-readme-stats&show_icons=true&theme=radical)] </br>
+
+#🏆GitHub Trophies
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=JarodJeffery&column=3)](https://github.com/JarodJeffery/github-profile-trophy)
+
 <!--
 **JarodJeffery/JarodJeffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
