@@ -41,7 +41,7 @@
 ![Jarod Jeffery stats](https://github-readme-stats.vercel.app/api?username=JarodJeffery\&exclude_repo=github-readme-stats&include_all_commits=true&theme=radical)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JarodJeffery&exclude_repo=github-readme-stats&layout=compact&theme=radical)</br>
 ![](https://github-readme-stats.vercel.app/api?username=JarodJeffery\&show_icons=true\&exclude_repo=github-readme-stats&show=reviews,prs_merged,prs_merged_percentage&theme=radical)</br>
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=JarodJeffery&exclude_repo=github-readme-stats&show_icons=true&theme=radical)] </br>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=JarodJeffery&exclude_repo=github-readme-stats&show_icons=true&theme=radical) </br>
 
 # 🏆GitHub Trophies
 <br>
