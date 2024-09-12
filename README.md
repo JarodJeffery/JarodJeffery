@@ -13,7 +13,7 @@
 <a href="https://www.facebook.com/profile.php?id=100009667239377" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/jarod-jeffery-717536219/" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" alt="Instagram"></a>
 
-# :computer:Teck Stack
+# :computer:Tech Stack
 <img src="https://img.shields.io/badge/C++-red.svg?style=flat&logo=c%2B%2B" alt="C++" width="auto" height="35" ></a>
 <img src="https://img.shields.io/badge/HTML5-blue.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5" width="auto" height="35" ></a>
 <img src="https://img.shields.io/badge/JavaScript-black.svg?style=flat&logo=JavaScript&logoColor=yellow" alt="HTML5" width="auto" height="35" ></a>
