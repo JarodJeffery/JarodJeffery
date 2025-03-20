@@ -1,7 +1,6 @@
 # Hi I am Jarod Jeffery👋
 ## About me :golf:
 
-🔭 I’m currently working on a bird watching mobile app while familiarizing myself with network management and security. </br>
 🌱 I’m currently learning React, Flutter and node.js. </br>
 👯 I’m looking to collaborate on Deepfaking, app development and penetration testing. </br>
 🤔 I’m looking for help to improving my skills. </br>
