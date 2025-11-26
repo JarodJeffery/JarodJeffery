@@ -1,10 +1,9 @@
 # Hi I am Jarod Jeffery👋
 ## About me :golf:
 
-🌱 I’m currently learning React, Flutter and node.js. </br>
-👯 I’m looking to collaborate on Deepfaking, app development and penetration testing. </br>
+🌱 I’m currently working at AgileBridge </br>
+👯 I’m looking to collaborate on app development and penetration testing. </br>
 🤔 I’m looking for help to improving my skills. </br>
-💬 Ask me about manga I am up todate with most of it. </br>
 ⚡ Fun fact: I am still unable to whistle after trying to learn since 2018.
 
 ## :globe_with_meridians: Socials
